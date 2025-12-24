@@ -1,0 +1,30 @@
+{
+  "name": "is-five",
+  "version": "1.0.0",
+  "description": "Check if a value is five (5), efficient and fast, minimal and lightweight.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "five",
+    "number",
+    "check",
+    "validation",
+    "is-five",
+    "isFive",
+    "is-odd",
+    "is-even",
+    "5"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joe-Moussally/is-five.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joe-Moussally/is-five/issues"
+  },
+  "homepage": "https://github.com/Joe-Moussally/is-five#readme"
+}
