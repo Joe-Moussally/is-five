@@ -1,4 +1,4 @@
-# is-five [![NPM version](https://img.shields.io/npm/v/is-five.svg?style=flat)](https://www.npmjs.com/package/is-five) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-five.svg?style=flat)](https://npmjs.org/package/is-five) [![NPM total downloads](https://img.shields.io/npm/dt/is-five.svg?style=flat)](https://npmjs.org/package/is-five) [![Linux Build Status](https://img.shields.io/travis/Joe-Moussally/is-five.svg?style=flat&label=Travis)](https://travis-ci.org/Joe-Moussally/is-five)
+# is-five [![NPM version](https://img.shields.io/npm/v/is-five.svg?style=flat)](https://www.npmjs.com/package/is-five) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-five.svg?style=flat)](https://npmjs.org/package/is-five) [![NPM total downloads](https://img.shields.io/npm/dt/is-five.svg?style=flat)](https://npmjs.org/package/is-five)
 
 > Check if a value is five (5), efficient and fast, minimal and lightweight.
 
@@ -13,15 +13,15 @@ $ npm install --save is-five
 ## Usage
 
 ```js
-var isFive = require('is-five');
+var isFive = require("is-five");
 
 isFive(5);
 //=> true
-isFive('5');
+isFive("5");
 //=> true
 isFive(4);
 //=> false
-isFive('4');
+isFive("4");
 //=> false
 isFive(0);
 //=> false
@@ -37,9 +37,9 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 ### Contributors
 
-| **Commits** | **Contributor** | 
-| --- | --- |
-| 1 | [Joe-Moussally](https://github.com/Joe-Moussally) |
+| **Commits** | **Contributor**                                   |
+| ----------- | ------------------------------------------------- |
+| 1           | [Joe-Moussally](https://github.com/Joe-Moussally) |
 
 ### Running tests
 
@@ -53,10 +53,9 @@ $ npm install && npm test
 
 **Joe Moussally**
 
-* [github/Joe-Moussally](https://github.com/Joe-Moussally)
+- [github/Joe-Moussally](https://github.com/Joe-Moussally)
 
 ### License
 
-Copyright © 2024, [Joe Moussally](https://github.com/Joe-Moussally).
+Copyright © 2025, [Joe Moussally](https://github.com/Joe-Moussally).
 Released under the [MIT License](LICENSE).
-
